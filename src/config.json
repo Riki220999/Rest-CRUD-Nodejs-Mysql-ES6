@@ -1,0 +1,12 @@
+{
+	"port": 9000,
+	"bodyLimit": "100kb",
+	"corsHeaders": [
+		"Link"
+	],
+	"user": "",
+	"password": "",
+	"database": "",
+	"host": "",
+	"screat": "adskjaskdnsakd"
+}
